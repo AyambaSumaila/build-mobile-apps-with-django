@@ -1,0 +1,21 @@
+
+
+[
+    {
+        "id":1,
+        "pizzas":"Pepperoni pizza",
+        "city":"Rome"
+    },
+
+    {
+        "id":2,
+        "pizzas": "Hot pizza",
+        "city":"Chicago"
+
+    },
+    {
+        "id":3,
+        "pizzas":"Hollywood",
+        "city":"Los Angeles"
+    }
+]
